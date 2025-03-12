@@ -109,15 +109,13 @@ int main(void)
 
 ## OUTPUT
 ### OFF:
-<br/>
-<br/>
+
 ![IMG_20250312_111913](https://github.com/user-attachments/assets/569b7965-53a4-4ca1-87c2-f0355e25d51e)
-<br/>
+
 ### ON:
-<br/>
-<br/>
+
 ![IMG_20250312_111910](https://github.com/user-attachments/assets/9bf7d590-f189-4c2a-862b-19631444a1bb)
-<br/>
+
 ## Result
 
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
